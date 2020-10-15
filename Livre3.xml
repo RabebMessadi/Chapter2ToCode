@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+    <maSociete:livre xmlns:maSociete="http://www.masociete.com">
+        <maSociete:titre>Les languages </maSociete:titre> 
+        <maSociete:auteur>
+            <maSociete:nom>Messadi</maSociete:nom>
+            <maSociete:prenom>Amine</maSociete:prenom>
+        </maSociete:auteur>
+        <maSociete:auteur>
+            <maSociete:nom>Belhadj</maSociete:nom>
+            <maSociete:prenom>Jamila</maSociete:prenom>
+        </maSociete:auteur>
+    <sections>
+        <maSociete:section>
+            <maSociete:titre>Section I</maSociete:titre>
+            <maSociete:chapitre>
+                <maSociete:titre>XML</maSociete:titre>
+                <maSociete:paragraphe>langage extensible de feuille de style. 
+                    </maSociete:paragraphe>
+                <maSociete:paragraphe> Cette abréviation recouvre en fait trois langages :XPath ,XSLT ,XSL-FO</maSociete:paragraphe>
+            </maSociete:chapitre>
+            <maSociete:chapitre>
+                <maSociete:titre>HTML</maSociete:titre>
+                <maSociete:paragraphe>est le langage de balisage conçu pour représenter les pages web</maSociete:paragraphe>
+                <maSociete:paragraphe>C’est un langage permettant d’écrire de l’hypertexte, d’où son nom. HTML permet également de structurer sémantiquement la page, de mettre en forme le contenu, de créer des formulaires de saisie, d’inclure des ressources multimédias dont des images, des vidéos, et des programmes informatiques</maSociete:paragraphe>
+            </maSociete:chapitre>
+        </maSociete:section>
+        <monEntrprise:section xmlns:monEntrprise="http://www.monentreprise.com">
+            <monEntrprise:titre>Section II</monEntrprise:titre>
+            <monEntrprise:chapitre>
+                <monEntrprise:titre>PHP</monEntrprise:titre>
+                <monEntrprise:paragraphe>est un "langage de programmation" libre18, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP17, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet. </monEntrprise:paragraphe>
+                <monEntrprise:paragraphe>PHP a permis de créer un grand nombre de sites web célèbres, comme Facebook et Wikipédia19 Il est considéré comme une des bases de la création de sites web dits dynamiques mais également des applications web.</monEntrprise:paragraphe>
+            </monEntrprise:chapitre>
+            <monEntrprise:chapitre>
+                <monEntrprise:titre> JAVA </monEntrprise:titre>
+                <monEntrprise:paragraphe>Java est un langage de programmation orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.</monEntrprise:paragraphe>
+                <paragraphe>La société Sun a été ensuite rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.
+                </paragraphe>
+            </monEntrprise:chapitre>
+        </monEntrprise:section>
+    </sections>
+    </maSociete:livre>

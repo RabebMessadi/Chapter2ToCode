@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre titre="Languages">
+    <auteur nom="Messadi" prenom="Amine" />
+    <auteur nom="Belhadj" prenom="Jamila" />
+    <sections>
+    <section titre="Section I" >
+        <chapitre titre="XML">
+            <paragraphe>langage extensible de feuille de style. 
+                </paragraphe>
+            <paragraphe> Cette abréviation recouvre en fait trois langages :XPath ,XSLT ,XSL-FO</paragraphe>
+        </chapitre>
+        <chapitre titre="HTML">
+            <paragraphe>est le langage de balisage conçu pour représenter les pages web</paragraphe>
+            <paragraphe>C’est un langage permettant d’écrire de l’hypertexte, d’où son nom. HTML permet également de structurer sémantiquement la page, de mettre en forme le contenu, de créer des formulaires de saisie, d’inclure des ressources multimédias dont des images, des vidéos, et des programmes informatiques</paragraphe>
+            <paragraphe> &lt; element id="10"&gt;&gt; &lt; /element &gt; </paragraphe>
+        </chapitre>
+    </section>
+    <section titre="Section II" >
+    <chapitre titre="PHP">
+            <paragraphe>est un "langage de programmation" libre18, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP17, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet. </paragraphe>
+            <paragraphe>PHP a permis de créer un grand nombre de sites web célèbres, comme Facebook et Wikipédia19 Il est considéré comme une des bases de la création de sites web dits dynamiques mais également des applications web.</paragraphe>
+        </chapitre>
+        <chapitre titre="JAVA">
+         <paragraphe>  <![CDATA[<element id="10">></element>  ]]></paragraphe> 
+            <paragraphe>Java est un langage de programmation orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy (cofondateur de Sun Microsystems en 1982), présenté officiellement le 23 mai 1995 au SunWorld.</paragraphe>
+            <paragraphe>La société Sun a été ensuite rachetée en 2009 par la société Oracle qui détient et maintient désormais Java.
+            </paragraphe>
+        </chapitre>
+    </section>
+</sections>
+</livre>
